@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=강풍윤&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=강풍윤&fontSize=32)
 
 ### :computer: Position
 #### 프론트엔드
