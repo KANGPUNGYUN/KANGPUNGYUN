@@ -1,5 +1,5 @@
 <div align=center>
-### :open_hands: Introduction
+:open_hands: Introduction
 #### 외주로 프론트엔드 개발한 경험이 있으며, 기술의 깊이를 위해 현재 공부중입니다. 많은 사람들이 정말 필요한 서비스를 쉽고 편리하게 제공할 수 있는 프론트엔드 개발자를 목표로 합니다.
 
 ### :rocket: Skills
