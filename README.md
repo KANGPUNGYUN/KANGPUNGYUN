@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
 <h3> :computer: Solved.ac </h3>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zkdvnd)](https://solved.ac/zkdvnd)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zkdvnd)](https://solved.ac/zkdvnd)
 
 </div>
