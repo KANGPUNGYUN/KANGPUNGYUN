@@ -2,7 +2,6 @@
   
 <h3> :open_hands: Introduction </h3>
 <h4> 짧게 프론트엔드로 개발한 경험이 있으며, 다양한 관계자와 의사소통하여 협업할 수 있으며, 매우 꼼꼼한 프론트엔드 개발자입니다.</h4>
-<br>
 
 <h3> :pencil: Language</h3>
 
