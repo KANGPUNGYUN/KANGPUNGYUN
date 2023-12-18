@@ -5,7 +5,7 @@
 ## 📘BLOG📘
 
 [Next.js 웹 성능 및 접근성 개선하기(Lighthouse 성능 23점, 접근성 27점 개선)](https://velog.io/@kangpungyun/리팩토링-Lighthouse로-Next.js-웹-성능-23점-접근성-27점-개선하기)<br />
-
+[SOLID한 컴포넌트로 리팩토링하기](https://velog.io/@kangpungyun/SOLID%ED%95%9C-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0)<br />
 
 ## 📚TECH STACK📚
 
