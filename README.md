@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&fontColor=ffffff&height=180&section=header&text=Welcome!%20I'm%20KANGPUNGYUN!😄&fontSize=30&animation=twinkling)
 
 <div align=center>
+
+## ⛹️‍♂️HISTORY⛹️‍♂️
+
+멋쟁이사자처럼 프론트엔드 스쿨 3기 수료(2022.08~2023.01)<br />
+["React, Hook 들어오네!?" 전자책 출판(공동 저자)](https://ridibooks.com/books/2773000063)<br />
+원티드 프리온보딩 프론트엔드 챌린지(2023.12)
   
 ## 📘BLOG📘
 
